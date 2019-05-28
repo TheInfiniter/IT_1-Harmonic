@@ -1,0 +1,49 @@
+﻿Сборка начата 08.11.2018 14:03:54.
+     1>Проект "C:\Users\534.PD\Desktop\Harmonic\Harmonic\Harmonic.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\Harmonic.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt HarmonicDlg.cpp
+         HarmonicDlg.cpp
+     1>HarmonicDlg.cpp(136): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(137): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(143): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(147): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(149): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(154): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(155): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(161): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(164): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(166): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(171): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(172): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(174): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(175): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(179): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(180): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(182): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(183): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(206): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(207): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(208): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(209): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(212): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(213): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(214): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(215): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(285): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(286): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(289): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(290): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(294): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>HarmonicDlg.cpp(297): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\534.PD\Desktop\Harmonic\x64\Debug\Harmonic.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /PDB:"C:\Users\534.PD\Desktop\Harmonic\x64\Debug\Harmonic.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\534.PD\Desktop\Harmonic\x64\Debug\Harmonic.lib" /MACHINE:X64 x64\Debug\Harmonic.res
+         x64\Debug\Harmonic.obj
+         x64\Debug\HarmonicDlg.obj
+         x64\Debug\Solution.obj
+         x64\Debug\stdafx.obj
+         Harmonic.vcxproj -> C:\Users\534.PD\Desktop\Harmonic\x64\Debug\Harmonic.exe
+     1>Сборка проекта "C:\Users\534.PD\Desktop\Harmonic\Harmonic\Harmonic.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.25
